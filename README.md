@@ -9,7 +9,7 @@ cd to-do
 
 npm install
 
-npm run dev
+npm run start
 ```
 
 ## stack
